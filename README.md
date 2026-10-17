@@ -10,8 +10,6 @@ This repository contains exercises and small projects I have created while learn
 - `01ROADMAP.md` - Roadmap of Python concepts that I want to learn
 - `Exercise/` — Python concepts learning and exercises
 - `Codewars/` - Python Codewars exercises and practice
-
-## Projects
 - `mini-projects` - A few projects I have completed
     - `poker_deal_6_players.py` - A single deck of cards and dealing based on poker positions
     - `req_equty_poker.py` - Finding the recommended equity for calling in NLHE
