@@ -11,8 +11,8 @@ This repository contains exercises and small projects I have created while learn
 - `Exercise/` — Python concepts learning and exercises
 - `Codewars/` - Python Codewars exercises and practice
 - `mini-projects` - A few projects I have completed
-    - `poker_deal_6_players.py` - A single deck of cards and dealing based on poker positions
-    - `req_equty_poker.py` - Finding the recommended equity for calling in NLHE
+    - `poker_deal_6_players.py` - A single deck of cards and dealing based on poker positions [DATE: 17/10/2026]
+    - `req_equty_poker.py` - Finding the recommended equity for calling in NLHE [DATE: 17/10/2026]
 ## My Goal
 
 I will continue adding exercises and projects as I learn more Python.
