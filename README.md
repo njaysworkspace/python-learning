@@ -5,7 +5,7 @@ Welcome to my Python learning portfolio!
 This repository contains exercises and small projects I have created while learning Python. I use it to practice programming, keep track of what I have learned, and see my progress over time.
 
 ## What I’m Learning
-
+☑︎ Learning Foundations เป้าหมาย: เข้าใจวิธีเรียนเขียนโปรแกรมและอ่านโค้ดอย่างมีระบบ [DATE:15/10/2026]
 ## Repository Structure
 - `01ROADMAP.md` - Roadmap of Python concepts that I want to learn
 - `Exercise/` — Python concepts learning and exercises
