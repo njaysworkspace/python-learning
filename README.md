@@ -7,19 +7,14 @@ This repository contains exercises and small projects I have created while learn
 ## What I’m Learning
 
 ## Repository Structure
-
-- `Exercise/` — ⤵︎
-    Python exercises and practice
-- `Codewars/` - ⤴︎
+- `01ROADMAP.md` - Roadmap of Python concepts that I want to learn
+- `Exercise/` — Python concepts learning and exercises
+- `Codewars/` - Python Codewars exercises and practice
 
 ## Projects
-
-### Poker Card Dealer
-A small program that shuffles a deck and deals cards to six players.
-
-### Poker Pot Odds Calculator
-A program that calculates the minimum equity needed to call based on the pot size and call amount.
-
+- `mini-projects` - A few projects I have completed
+    - `poker_deal_6_players.py` - A single deck of cards and dealing based on poker positions
+    - `req_equty_poker.py` - Finding the recommended equity for calling in NLHE
 ## My Goal
 
 I will continue adding exercises and projects as I learn more Python.
