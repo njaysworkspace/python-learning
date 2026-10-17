@@ -6,16 +6,9 @@ This repository contains exercises and small projects I have created while learn
 
 ## What I’m Learning
 
-- Python basics
-- Variables and data types
-- User input and type conversion
-- Operators
-- Lists, tuples, dictionaries, and sets
-- Small projects using Python
-
 ## Repository Structure
 
-- `Exercise/` — Python exercises and practice projects
+- `Exercise/` — - `Codewars/` - Python exercises and practice
 
 ## Projects
 
