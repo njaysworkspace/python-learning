@@ -8,7 +8,9 @@ This repository contains exercises and small projects I have created while learn
 
 ## Repository Structure
 
-- `Exercise/` — - `Codewars/` - Python exercises and practice
+- `Exercise/` — ⤵︎
+    Python exercises and practice
+- `Codewars/` - ⤴︎
 
 ## Projects
 
