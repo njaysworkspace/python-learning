@@ -1,11 +1,12 @@
-# Tuple ใช้วงเล็บ ()
+# สร้าง tuple ด้วยวงเล็บ ()
 colour = ("Red", "Blue", "Green")
 student = ("NJ", 25)
-### Tuples ไม่สามารถเพิ่มหรือเปลี่ยนค่าหลังจากสร้างได้
-""" EX
+# หลังสร้าง tuple แล้ว จะเพิ่ม ลบ หรือเปลี่ยนสมาชิกไม่ได้
+""" ตัวอย่าง: การเปลี่ยนสมาชิกจะทำให้เกิด TypeError
 colors = ("red", "blue", "green")
 
-colors[0] = "yellow"  # จะเกิด TypeError """
+colors[0] = "yellow"
+"""
 
 print(f"Colour: {colour}")
 print(f"Student name: {student[0]}")
