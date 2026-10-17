@@ -1,7 +1,7 @@
 name = input("กรอกชื่อ")
-age = int(input("กรอกอายุ")) # input รับข้อมูลเป็น str แปลงเป็น int
-height = float(input("กรอกส่วนสูง")) # input รับข้อมูลเป็น str แปลงเป็น float
-numbers = int("80") # input รับข้อมูลเป็น str แปลงเป็น int
+age = int(input("กรอกอายุ"))  # input() ได้ข้อความ จึงแปลงเป็นจำนวนเต็มด้วย int()
+height = float(input("กรอกส่วนสูง"))  # แปลงข้อความเป็นเลขทศนิยมด้วย float()
+numbers = int("80")  # แปลงข้อความ "80" ให้เป็นจำนวนเต็ม
 
 add20 = numbers + 20
 
