@@ -1,12 +1,11 @@
-numbers = "50" # str
-numbers = int(numbers) # แปลงข้อมูลของตัวแปร numbers จาก str -> int
-total_numbers = numbers + 20
+name = input("กรอกชื่อ")
+age = int(input("กรอกอายุ")) # input รับข้อมูลเป็น str แปลงเป็น int
+height = float(input("กรอกส่วนสูง")) # input รับข้อมูลเป็น str แปลงเป็น float
+numbers = int("80") # input รับข้อมูลเป็น str แปลงเป็น int
 
-# ใช้ input เพื่อรับข้อมูลแล้วเป็นเป็น int
-# การรับข้อมูลด้วย input จะรับข้อมูลเป็น str เสมอ
-age = int(input("กรอกอายุ"))
+add20 = numbers + 20
 
-print(f"Total Numbers {total_numbers}") # ใช้ f-string แทรกค่าตัวแปร
-print(type(total_numbers))
-print(f"Age: {age}") # ใช้ f-string แทรกค่าตัวแปร
-print(type(age))
+print(f"ชื่อ: {name}")
+print(f"อายุ: {age}")
+print(f"ส่วนสูง: {height}")
+print(f"total numbers: {add20}")
