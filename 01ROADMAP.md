@@ -7,6 +7,7 @@ Level 0 — Learning Foundations
 - 0.4 การอ่าน Error Message เบื้องต้น
 - 0.5 การทดลองรันโค้ดและสังเกตผลลัพธ์
 - 0.6 การใช้ Python REPL หรือ Code Editor
+  
 Level 1 — Python Fundamentals
 เป้าหมาย: เข้าใจข้อมูล ตัวแปร และการคำนวณพื้นฐาน
 - 1.1 Syntax, Comments และ Indentation
@@ -22,6 +23,7 @@ Level 1 — Python Fundamentals
 - 1.11 Input และ Output: input(), print()
 - 1.12 String Formatting และ f-strings
 เกณฑ์ผ่าน: อธิบายค่าของตัวแปรแต่ละตัวได้ คำนวณนิพจน์ได้ และเขียนโปรแกรมคำนวณง่าย ๆ ได้โดยไม่ต้องเปิดตัวอย่างดูตลอดเวลา
+
 Level 2 — Control Flow
 เป้าหมาย: ควบคุมว่าคำสั่งใดจะทำงาน และทำซ้ำกี่ครั้ง
 - 2.1 Boolean และ Truth Values
@@ -36,6 +38,7 @@ Level 2 — Control Flow
 - 2.10 Loop Tracing และการติดตามค่าตัวแปร
 - 2.11 Off-by-one Errors และ Infinite Loops
 เกณฑ์ผ่าน: เขียนโปรแกรมตรวจเลขคู่/คี่ หาค่าสูงสุด นับจำนวน และวนคำนวณผลรวมได้ด้วยตัวเอง
+
 Level 3 — Core Data Structures
 เป้าหมาย: จัดเก็บ ค้นหา แก้ไข และแปลงข้อมูลเป็น
 3.1 String
@@ -77,6 +80,7 @@ Level 3 — Core Data Structures
 - การเลือกใช้ List, Tuple, Set และ Dictionary
 - การแปลงข้อมูลระหว่างชนิดต่าง ๆ
 เกณฑ์ผ่าน: เลือก Data Structure ได้เหมาะกับปัญหา และจัดการข้อมูลโดยไม่สับสนเรื่อง Index, Key หรือการแก้ไขข้อมูล
+
 Level 4 — Functions & Modular Thinking
 เป้าหมาย: แบ่งโปรแกรมออกเป็นส่วนเล็ก ๆ ที่นำกลับมาใช้ซ้ำได้
 - 4.1 การประกาศฟังก์ชันด้วย def
@@ -94,6 +98,7 @@ Level 4 — Functions & Modular Thinking
 - 4.13 Modules, import และ from ... import
 - 4.14 การแยกโค้ดเป็นหลายฟังก์ชัน
 เกณฑ์ผ่าน: อ่านโจทย์แล้วออกแบบฟังก์ชันเองได้ รู้ว่าควรรับค่าอะไร คืนค่าอะไร และแบ่งงานเป็นฟังก์ชันย่อยได้
+
 Level 5 — Pythonic Coding
 เป้าหมาย: เขียนโค้ดให้กระชับ อ่านง่าย และใช้เครื่องมือของภาษาได้คล่อง
 - 5.1 Built-in Functions: len(), sum(), min(), max()
@@ -110,6 +115,7 @@ Level 5 — Pythonic Coding
 - 5.12 การเลือกใช้ Loop, Comprehension หรือ Built-in Function
 - 5.13 การอ่านและเขียนโค้ดแบบ Pythonic
 เกณฑ์ผ่าน: สามารถเขียนโค้ดได้หลายรูปแบบ เข้าใจข้อดีข้อเสีย และเลือกวิธีที่อ่านง่ายที่สุด ไม่ใช่แค่เลือกวิธีที่สั้นที่สุด
+
 Level 6 — Problem Solving & Codewars
 เป้าหมาย: แก้โจทย์ได้โดยไม่ต้องรู้คำตอบล่วงหน้า
 - 6.1 การแยกโจทย์เป็น Input, Output และ Constraints
@@ -125,6 +131,7 @@ Level 6 — Problem Solving & Codewars
 - 6.11 การอธิบายเหตุผลของโค้ดด้วยภาษาตัวเอง
 - 6.12 การทบทวนข้อผิดพลาดจากโจทย์เก่า
 เกณฑ์ผ่าน: เริ่มแก้โจทย์ใหม่ได้ด้วยการวิเคราะห์ของตัวเอง แม้ยังต้องใช้เวลาคิด และสามารถอธิบายได้ว่าทำไมวิธีแก้จึงถูกต้อง
+
 Level 7 — Intermediate Python
 เป้าหมาย: เข้าใจพฤติกรรมของภาษาและสร้างโปรแกรมที่ดูแลต่อได้
 - 7.1 Exception Handling: try, except, else, finally
@@ -142,6 +149,7 @@ Level 7 — Intermediate Python
 - 7.13 Docstrings และการเขียน Documentation
 - 7.14 การจัดการ Dependencies และ Virtual Environments
 เกณฑ์ผ่าน: เขียนโปรแกรมขนาดเล็กที่มีหลายฟังก์ชันหรือหลายคลาสได้ พร้อมจัดการข้อผิดพลาดและอธิบายโครงสร้างของโค้ด
+
 Level 8 — Data Structures & Algorithms
 เป้าหมาย: เข้าใจประสิทธิภาพของโค้ดและแก้โจทย์เชิงอัลกอริทึม
 - 8.1 Big O Notation: \(O(1)\), \(O(\log n)\), \(O(n)\), \(O(n\log n)\), \(O(n^2)\)
@@ -160,6 +168,7 @@ Level 8 — Data Structures & Algorithms
 - 8.14 Greedy Algorithms เบื้องต้น
 - 8.15 Dynamic Programming เบื้องต้น
 เกณฑ์ผ่าน: วิเคราะห์ความซับซ้อนของวิธีแก้ปัญหาได้ และเลือก Algorithm ให้เหมาะกับขนาดข้อมูลและเงื่อนไขของโจทย์
+
 Level 9 — Advanced Python
 เป้าหมาย: เข้าใจกลไกที่ลึกขึ้นของภาษาและเครื่องมือขั้นสูง
 - 9.1 Iterators และ Iteration Protocol
@@ -176,6 +185,7 @@ Level 9 — Advanced Python
 - 9.12 Profiling และ Performance Optimization
 - 9.13 Memory Management เบื้องต้น
 เกณฑ์ผ่าน: เข้าใจว่ากลไกขั้นสูงทำงานอย่างไร รู้ว่าเมื่อไรควรใช้ และสามารถอ่านโค้ด Python ที่ซับซ้อนขึ้นได้
+
 Level 10 — Real-World Development
 เป้าหมาย: นำ Python ไปสร้างโปรแกรมหรือโปรเจกต์จริง
 - 10.1 Project Structure และการแยกไฟล์
